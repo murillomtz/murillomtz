@@ -1,5 +1,4 @@
-
-# ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=mtzmurillo&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=murillomtz&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 
  
@@ -135,14 +134,14 @@ console.log([ "🐣", "🐥","🥚", "🐔"].sort());
 </table>
 
  
-![mtzmurillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtzmurillo&show_icons=true&theme=vue)
+![mtzmurillo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillomtz&show_icons=true&theme=vue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtzmurillo&langs_count=50)](https://github.com/mtzmurillo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murillomtz&langs_count=50)](https://github.com/murillomtz/github-readme-stats)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mtzmurillo&repo=mtzmurillo.github.io)](https://github.com/mtzmurillo/mtzmurillo.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=murillomtz&repo=murillomtz.github.io)](https://github.com/murillomtz/murillomtz.github.io)
 
 
  
