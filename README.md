@@ -2,7 +2,7 @@
 
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Murillo+Caetano;Junior+systems+analyst+at+Capgemini)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=400&height=80&size=20&multiline=true&lines=Hi,+I'm+Murillo+Caetano;Desenvolvedor+de+sistemas+Pleno+na+Capgemini)](https://git.io/typing-svg)
 
 
 <center>
